@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+/* shared styles  */
+
+.text-white {
+    color: #FFFFFF;
+}
+
+/* header styles  */
+
+.bg{
+    background-image: url(../images/Banner\ Image.png);
+    /* Rectangle 15 */
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 50px;
+   
+
+}
+
+.banner{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    border-radius: 10px;
+    padding: 177px 344px;
+    text-align: center;
+  
+}
+
+.banner-p{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+}
+.banner-h{
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    
+}
+/* main  */
+/* off section  */
+
+#off{
+    margin: 120px 800px;
+    /* Group 50 */
+    position: absolute;
+    width: 802.9px;
+    height: 806px;
+    left: 399px;
+    right: 398.1px;
+    top: 770px;
+    bottom: 5759px;
+}
+
+.off {
+   align-items: center;
+}
+
+.off65{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+    }
+
+.holiday{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.cat{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
