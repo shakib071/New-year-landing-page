@@ -282,9 +282,9 @@ header{
     background-image: url(../images/Rectangle\ 2.png);
     background-repeat: no-repeat;
     
-    background-position: bottom;
+    background-position: bottom ;
     
-    background-size:contain;
+    background-size:100%;
     display: flex;
     justify-content: space-evenly;
  
